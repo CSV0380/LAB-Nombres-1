@@ -62,4 +62,4 @@ if __name__ == "__main__":
         print(f"Genero: '{genero.lower()}'. \fLos nombres son: \f {calcular_nombres(registros,genero)}")
     """
 
-    print(f"{calcular_top_nombres_de_año(registros, 2005, 10, "Mujer")}")
+    print(f"{calcular_top_nombres_de_año(registros, 2005, 10, "Mujer")}") 
